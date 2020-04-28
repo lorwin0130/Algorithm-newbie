@@ -40,6 +40,7 @@
 重点：@important
 记忆：@memory
 易错：@warning
+待办：@todo
  -->
 
 - [记录总结]
